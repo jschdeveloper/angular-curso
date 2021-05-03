@@ -1,2 +1,2 @@
 # angular-curso
-curso udemy Fernando Herrera
+Curso Angular en la plataforma Udemy   [Fernando Herrera](https://www.udemy.com/course/angular-fernando-herrera)
